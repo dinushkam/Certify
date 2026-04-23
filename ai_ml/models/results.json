@@ -1,0 +1,9 @@
+{
+  "test_accuracy": 92.0,
+  "f1_score": 0.9195,
+  "auc_roc": 0.923,
+  "best_val_accuracy": 92.67,
+  "total_epochs": 14,
+  "device": "cpu",
+  "model_path": "../models\\best_model.pth"
+}
